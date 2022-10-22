@@ -1,0 +1,17 @@
+/.consulo
+/.vs
+/.vscode
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp.csproj
+/Game.sln
+/InputSystem.Samples.Visualizers.csproj
+/Library
+/Logs
+/obj
+/Packages
+/ProjectSettings
+/Temp
+/Unity.InputSystem.InGameHints.csproj
+/Unity.InputSystem.RebindingUI.csproj
+/Unity.InputSystem.Recorder.csproj
+/UnityEngine.InputSystem.Samples.UIvsGameInput.csproj
